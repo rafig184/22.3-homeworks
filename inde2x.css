@@ -1,0 +1,33 @@
+.contents {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 2%;
+}
+
+.productDiv {
+    border: 1px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 1%;
+    background-color: gainsboro
+}
+
+.h1 {
+    text-align: center;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+
+
+.body {
+    background-color: lightgray;
+}
